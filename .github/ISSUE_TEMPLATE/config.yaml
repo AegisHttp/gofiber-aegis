@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🎫 Open an Issue (Bug or Feature)
+    url: https://github.com/AegisHttp/aegishttp/issues/new/choose
+    about: Please open all issues (bug reports and feature requests) in the main aegishttp repository.
+  - name: 💬 Ask a Question / Discussions
+    url: https://github.com/AegisHttp/aegishttp/discussions
+    about: Ask questions and discuss ideas with the community.
